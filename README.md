@@ -152,3 +152,7 @@ pip install analogos
 ## License
 
 Apache License 2.0 — see [LICENSE](LICENSE).
+
+---
+
+*Copyright 2026 Zaqueu Ribeiro da Costa — Ω core*
