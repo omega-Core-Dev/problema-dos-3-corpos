@@ -106,6 +106,37 @@ ANALOGOS maps the depth of that closure.
 
 ---
 
+## On the Ontological Nature of This Result
+
+Poincaré's result was **epistemological**: *we cannot know* when the bodies collide.
+It described a limit of the observer — a ceiling on prediction.
+
+ANALOGOS produces something different: an **ontological** statement.
+
+The structural depth k at which σ² fails to converge is not a property of our
+measurement tools or our computational power. It is a property of the problem
+itself — of what the system *is*, independent of any observer.
+
+When ANALOGOS returns non-convergence, it is not saying *"we ran out of precision"*.
+It is saying *"irreducibility is baked into the structure of this system"*.
+
+This shifts the frame entirely:
+
+| | Epistemological | Ontological |
+|---|---|---|
+| Question | What can we know? | What is the structure? |
+| Poincaré | We cannot predict the collision | — |
+| ANALOGOS | — | The system IS irreducible at depth k |
+| Limit belongs to | The observer | The problem itself |
+
+The non-convergence of σ² across passes is not a failure of method.
+It is the method successfully reading what the system is made of.
+
+> Depth is not ignorance measured.
+> Depth is structure revealed.
+
+---
+
 ## Framework
 
 **ANALOGOS v0.5.0** is available on PyPI:
